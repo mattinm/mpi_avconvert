@@ -1,3 +1,7 @@
 [submodule "avTranscoder"]
 	path = avTranscoder
 	url = https://github.com/avTranscoder/avTranscoder.git
+[submodule "FFmpeg"]
+	path = FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+	branch = release/2.8
